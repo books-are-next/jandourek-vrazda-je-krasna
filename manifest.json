@@ -1,0 +1,193 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Vražda je krásná",
+  "author": "Jan Jandourek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "jandourek-vrazda-je-krasna-30577f5",
+  "revision": "30577f5",
+  "readingOrder": [
+    "promo.html",
+    "vrazda_je_krasna_005.html",
+    "vrazda_je_krasna_006.html",
+    "vrazda_je_krasna_007.html",
+    "vrazda_je_krasna_008.html",
+    "vrazda_je_krasna_009.html",
+    "vrazda_je_krasna_010.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Aug 24 2022 10:34:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661337283699
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "vrazda_je_krasna_005.html",
+      "toc": []
+    },
+    {
+      "title": "Vražda je krásná",
+      "file": "vrazda_je_krasna_005.html",
+      "words": 58,
+      "chars": 358,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "vrazda_je_krasna_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Berlín",
+      "file": "vrazda_je_krasna_006.html",
+      "words": 10079,
+      "chars": 63291,
+      "ideas": 300,
+      "role": "chapter",
+      "order": 2,
+      "prev": "vrazda_je_krasna_005.html",
+      "next": "vrazda_je_krasna_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Berlín",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řím",
+      "file": "vrazda_je_krasna_007.html",
+      "words": 35264,
+      "chars": 220709,
+      "ideas": 1024,
+      "role": "chapter",
+      "order": 3,
+      "prev": "vrazda_je_krasna_006.html",
+      "next": "vrazda_je_krasna_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řím",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plovoucí ostrov",
+      "file": "vrazda_je_krasna_008.html",
+      "words": 22319,
+      "chars": 140188,
+      "ideas": 691,
+      "role": "chapter",
+      "order": 4,
+      "prev": "vrazda_je_krasna_007.html",
+      "next": "vrazda_je_krasna_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Plovoucí ostrov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. Svobodná sibiřská republika",
+      "file": "vrazda_je_krasna_009.html",
+      "words": 12382,
+      "chars": 76648,
+      "ideas": 464,
+      "role": "chapter",
+      "order": 5,
+      "prev": "vrazda_je_krasna_008.html",
+      "next": "vrazda_je_krasna_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3. Svobodná sibiřská republika",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mrtvé moře",
+      "file": "vrazda_je_krasna_010.html",
+      "words": 1256,
+      "chars": 7398,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 6,
+      "prev": "vrazda_je_krasna_009.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mrtvé moře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 143,
+      "chars": 908,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "vrazda_je_krasna_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 81508,
+      "chars": 509540,
+      "ideas": 2565
+    },
+    "chapters": {
+      "words": 81358,
+      "chars": 508592,
+      "ideas": 2544
+    }
+  }
+}

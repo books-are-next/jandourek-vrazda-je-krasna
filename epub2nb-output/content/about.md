@@ -2,4 +2,24 @@
 title: Tiráž
 ---
 
+**Jan Jandourek    
+Vražda je krásná**  
+Redakce Markéta Teuchnerová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 2. elektronické vydání z 24. 8. 2022.
+
+***
+
+Znění tohoto textu vychází z díla [Vražda je krásná](https://search.mlp.cz/cz/titul/vrazda-je-krasna/2407241/#/) tak, jak bylo vydáno nakladatelstvím Petrov v Brně v roce 2004. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
+![](../Images/MZK_logo_tyrkys_transparent.jpg)
+Podle [předlohy](https://www.digitalniknihovna.cz/mzk) z fondu [Moravské zemské knihovny v Brně](https://www.mzk.cz/).
+**§**
+Text díla (Jan Jandourek: Vražda je krásná), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), je vázán autorskými právy a jeho použití je definováno [Autorským zákonem](https://www.mkcr.cz/predpisy-zakonu-709.html) č. 121/2000 Sb.
+![](../Images/image001.jpg)
+Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
+![](../Images/image002.jpg)
+
+***
+
 Vydání webové knihy podpořila [Technologická agentura ČR](https://www.tacr.cz/) v projektu [Redesign knihovních služeb 2020: webové knihy](https://starfos.tacr.cz/cs/project/TL04000391).
