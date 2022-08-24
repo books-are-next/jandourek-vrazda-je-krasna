@@ -1,39 +1,37 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  publisherShort: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Vražda je krásná
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Jan Jandourek
+  publisher: Městská knihovna v Praze
+  modified: '2022-07-19T00:00:00.000Z'
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - vrazda_je_krasna_001.html
+  - vrazda_je_krasna_002.html
+  - vrazda_je_krasna_003.html
+  - vrazda_je_krasna_004.html
+  - vrazda_je_krasna_005.html
+  - vrazda_je_krasna_006.html
+  - vrazda_je_krasna_007.html
+  - vrazda_je_krasna_008.html
+  - vrazda_je_krasna_009.html
+  - vrazda_je_krasna_010.html
+  - vrazda_je_krasna_011.html
 tocBase:
-  - isSection: true
-    children:
-      - link: where-i-lived-and-what-i-lived-for.html
-        title: Where i lived and what i lived for
-        numberedChildren: true;
-        children:
-          - link: reading.html
-            title: Reading
-          - link: sounds.html
-            title: Sounds
-      - link: solitude.html
-        title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - assets
   - favicon.png
