@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jandourek-vrazda-je-krasna-c1c350e",
-  "revision": "c1c350e",
+  "identifier": "jandourek-vrazda-je-krasna-5b902e7",
+  "revision": "5b902e7",
   "readingOrder": [
     "promo.html",
     "vrazda_je_krasna_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:50:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150652132
+    "date": "Mon Oct 10 2022 15:42:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416557082
   },
   "documents": [
     {
@@ -161,7 +161,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 140,
-      "chars": 908,
+      "chars": 909,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -181,7 +181,7 @@
   "totals": {
     "all": {
       "words": 81505,
-      "chars": 509540,
+      "chars": 509541,
       "ideas": 2562
     },
     "chapters": {
