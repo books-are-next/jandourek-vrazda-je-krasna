@@ -10,7 +10,8 @@
       "yearPublished": "2022",
       "publisherShort": "mkp",
       "edition": "Beletrie",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2810-6"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -97,8 +98,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "vrazda_je_krasna_006.md",
@@ -110,8 +111,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Berlín"
+            "title": "Berlín",
+            "children": []
           },
           {
             "filename": "vrazda_je_krasna_007.md",
@@ -123,8 +124,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Řím"
+            "title": "Řím",
+            "children": []
           },
           {
             "filename": "vrazda_je_krasna_008.md",
@@ -136,8 +137,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Plovoucí ostrov"
+            "title": "Plovoucí ostrov",
+            "children": []
           },
           {
             "filename": "vrazda_je_krasna_009.md",
@@ -149,8 +150,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "3. Svobodná sibiřská republika"
+            "title": "3. Svobodná sibiřská republika",
+            "children": []
           },
           {
             "filename": "vrazda_je_krasna_010.md",
@@ -162,8 +163,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Mrtvé moře"
+            "title": "Mrtvé moře",
+            "children": []
           },
           {
             "filename": "vrazda_je_krasna_011.md",
@@ -328,6 +329,6 @@
       "user": "books-are-next",
       "repo": "jandourek-vrazda-je-krasna"
     },
-    "generatedAt": 1661317117625
+    "generatedAt": 1665415581990
   }
 }
