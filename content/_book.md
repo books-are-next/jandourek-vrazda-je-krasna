@@ -14,6 +14,7 @@ meta:
   publisherShort: mkp
   edition: Beletrie
   contentType: prose
+  isbn: 978-80-274-2810-6
 readingOrder:
   - promo.html
   - vrazda_je_krasna_005.html
