@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jandourek-vrazda-je-krasna-974df2c",
-  "revision": "974df2c",
+  "identifier": "jandourek-vrazda-je-krasna-f8609b6",
+  "revision": "f8609b6",
   "readingOrder": [
     "promo.html",
     "vrazda_je_krasna_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 18 2022 06:04:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1666073082039
+    "date": "Fri Oct 21 2022 11:37:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352244965
   },
   "documents": [
     {
